@@ -17,8 +17,8 @@ Data Merging: The cleaned data is merged with category and subcategory informati
 
 Data Export: The processed crowdfunding data is saved as a CSV file (campaign.csv) for further use and analysis.
 
-#Contact Information Organization
-###Data Loading: Contact information is loaded from the provided Excel file (contacts.xlsx). The data is prepared for organization.
+Contact Information Organization
+Data Loading: Contact information is loaded from the provided Excel file (contacts.xlsx). The data is prepared for organization.
 
 Data Transformation: The contact details are transformed into a structured format, including extracting first and last names from the full name and creating separate columns.
 
